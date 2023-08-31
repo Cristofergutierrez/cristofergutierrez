@@ -2,13 +2,15 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Create Virtual Machine](https://github.com/cristofergutierrez/create-vm)
+  - [Configuring Active Directory within Azure VMs](https://github.com/cristofergutierrez/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cristofergutierrez/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cristofergutierrez/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/cristofergutierrez/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cristofergutierrez/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/cristofergutierrez/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cristofergutierrez/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
