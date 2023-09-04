@@ -5,6 +5,8 @@
 - <b>Microsoft Azure</b>
   - [Create a Virtual Machine](https://github.com/cristofergutierrez/create-vm)
   - [Configuring Active Directory within Azure VMs](https://github.com/cristofergutierrez/configure-ad)
+- <b>Proxmox</b>
+  - [Create an Ubuntu Virtual Machine](https://github.com/cristofergutierrez/ubuntu-vm)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cristofergutierrez/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/cristofergutierrez/post-install-config)
